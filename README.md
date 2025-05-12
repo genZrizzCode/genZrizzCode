@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @genZrizzCode
 - 👀 I’m interested in websites
 - 🌱 I’m currently learning JS, CSS, HTML, & Svelte
-- 💞️ I’m looking to make websites and Gimkit & Blooket Hacks
+- 💞️ I’m looking to make websites.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: :(
 
