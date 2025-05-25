@@ -5,4 +5,4 @@
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I like to code during school hours
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=8) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode)]
