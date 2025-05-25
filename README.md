@@ -1,4 +1,4 @@
-![](Welcome to my Profile!.gif)
+<img src="profile-up.gif" alt="Profile Up" width="350px" height="200px">
 
 - 👋 Hi, I’m MaSoVaX
 - 👀 I’m interested in coding (duh), but also robotics and 中文
