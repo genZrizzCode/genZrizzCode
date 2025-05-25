@@ -1,3 +1,5 @@
+![](Welcome to my Profile!.gif)
+
 - 👋 Hi, I’m MaSoVaX
 - 👀 I’m interested in coding (duh), but also robotics and 中文
 - 🌱 I’m currently learning JS, CSS, HTML, Python, & Svelte
