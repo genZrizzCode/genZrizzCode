@@ -4,3 +4,5 @@
 - 💞️ I’m looking to make websites and GUIs
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I like to code during school hours
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode)](https://github.com/anuraghazra/github-readme-stats)
