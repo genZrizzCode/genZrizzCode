@@ -14,3 +14,6 @@
 
 ### My Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=10&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
+
+### My (good) Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=genzrizzcode&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=matrix&column=3&margin-w=10&margin-h=10)
