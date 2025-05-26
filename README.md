@@ -10,7 +10,7 @@
 ---
 
 ### My GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode&show_icons=true&theme=github_dark&hide_border=true&show=discussions_started,discussions_answered&rank_icon=percentile)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode&show_icons=true&theme=github_dark&hide_border=true&show=discussions_started,discussions_answered&rank_icon=percentile)](https://github.com/genZrizzCode)
 
 ### My Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=10&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
