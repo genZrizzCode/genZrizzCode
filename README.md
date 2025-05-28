@@ -17,3 +17,6 @@
 
 ### My (good) Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=genzrizzcode&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=matrix&column=3&margin-w=10&margin-h=10)
+
+## My Streak:
+![GitHub Streak](https://streak-stats.demolab.com/?user=genZrizzCode&theme=github-dark-blue&hide_border=true)
