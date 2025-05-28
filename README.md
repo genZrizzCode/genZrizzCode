@@ -1,10 +1,10 @@
 <img src="profile-up.gif" alt="Profile Up" width="350px" height="200px">
 
-- 👋 Hi, I’m MaSoVaX
-- 👀 I’m interested in coding (duh), but also robotics and 中文
-- 🌱 I’m currently learning JS, CSS, HTML, Python, & Svelte
-- 💞️ I’m looking to make websites and GUIs
-- 😄 Pronouns: He, Him, His
+- 👋 Hi, I’m **MaSoVaX**
+- 👀 I’m interested in **coding (duh), but also robotics and 中文**
+- 🌱 I’m currently learning **JS (and userjs), CSS, HTML, Python, & zsh.**
+- 💞️ I’m looking to make **websites and GUIs**
+- 😄 Pronouns: **He, Him, His**
 - ⚡ Fun fact: I like to code during school hours
   
 ---
