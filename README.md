@@ -63,7 +63,7 @@ Sunday                   46 commits          ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Los_Angeles
+🕑︎ Time Zone: America/Los Angeles
 
 💬 Programming Languages: 
 No Activity Tracked This Week
