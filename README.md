@@ -23,6 +23,8 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
@@ -92,5 +94,5 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 16:56:01 UTC
+ Last Updated on 19/07/2025 16:57:07 UTC
 <!--END_SECTION:waka-->
