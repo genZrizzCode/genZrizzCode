@@ -23,4 +23,74 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 316 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌆 Daytime                116 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                173 commits         █████████████░░░░░░░░░░░░   51.34 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Wednesday                69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Thursday                 82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Friday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+Svelte                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/07/2025 16:56:01 UTC
 <!--END_SECTION:waka-->
