@@ -20,3 +20,7 @@
 
 ### My Streak:
 ![GitHub Streak](https://streak-stats.demolab.com?user=genZrizzCode&theme=highcontrast&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=EB5454)
+
+### My Wakatime:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
