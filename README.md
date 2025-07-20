@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **MaSoVaX**
 - 👀 I’m interested in **coding (duh), but also robotics and 中文**
 - 🌱 I’m currently learning **JS (and userjs), CSS, HTML, Python, Svelte, & zsh.**
-- 💞️ I’m looking to make **websites and GUIs**
+- 💞️ I’m looking to make **websites, pre-made objects, and GUIs**
 - 😄 Pronouns: **He, Him, His**
 - ⚡ Fun fact: I like to code during school hours
   
