@@ -23,13 +23,13 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 1.3 kB Used in GitHub's Storage 
  > 
 > 🏆 322 Contributions in the Year 2025
  > 
@@ -66,16 +66,24 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     22 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
+HTML                     18 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Git Config               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             ███████████████████████░░   91.81 % 
+Terminal                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Chrome                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+crowng                   32 mins             ██████████████░░░░░░░░░░░   54.13 % 
+register                 25 mins             ███████████░░░░░░░░░░░░░░   42.43 % 
+genZrizzCode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +102,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2025 08:11:25 UTC
+ Last Updated on 20/07/2025 18:30:22 UTC
 <!--END_SECTION:waka-->
