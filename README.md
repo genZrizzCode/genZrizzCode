@@ -23,15 +23,15 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
  > 
-> 🏆 344 Contributions in the Year 2025
+> 🏆 345 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,11 +89,11 @@ Mac                      1 hr                ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             █████████████░░░░░░░░░░░░   53.85 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Svelte                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Svelte                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -103,5 +103,5 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 05:13:14 UTC
+ Last Updated on 21/07/2025 08:15:08 UTC
 <!--END_SECTION:waka-->
