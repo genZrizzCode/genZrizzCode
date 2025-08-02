@@ -13,7 +13,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=genzrizzcode&show_icons=true&theme=github_dark&hide_border=true&show=discussions_started,discussions_answered&rank_icon=percentile)](https://github.com/genZrizzCode)
 
 ### My Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=15&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=20&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
 
 ### My (good) Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=genzrizzcode&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=matrix&column=3&margin-w=10&margin-h=10)
