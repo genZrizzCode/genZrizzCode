@@ -1,5 +1,7 @@
 <img src="profile-up.gif" alt="Profile Up" width="350px" height="200px">
 
+[![Github Followers](https://img.shields.io/github/followers/genZrizzCode?logo=github&style=plastic)](https://github.com/genZrizzCode?tab=followers)
+
 - 👋 Hi, I’m **MaSoVaX**
 - 👀 I’m interested in **coding (duh), but also robotics and 中文**
 - 🌱 I’m currently learning **JS (and userjs), CSS, HTML, Python, Svelte, & zsh.**
