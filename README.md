@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,5 +103,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 08:14:00 UTC
+ Last Updated on 20/08/2025 08:13:27 UTC
 <!--END_SECTION:waka-->
