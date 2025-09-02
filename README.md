@@ -25,7 +25,7 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,11 +68,10 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Bash                     2 mins              █████████████████████████   99.51 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   2 mins              █████████████████████████   100.00 % 
+Terminal                 2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 MassiVM                  2 mins              █████████████████████████   100.00 % 
@@ -98,5 +97,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 08:14:27 UTC
+ Last Updated on 02/09/2025 08:03:07 UTC
 <!--END_SECTION:waka-->
