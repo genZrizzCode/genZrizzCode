@@ -68,19 +68,16 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-HTML                     26 mins             █████████████████████░░░░   85.77 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   26 mins             █████████████████████░░░░   85.77 % 
-Terminal                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-max                      26 mins             █████████████████████░░░░   85.77 % 
-AMS_News                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +97,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 08:03:13 UTC
+ Last Updated on 27/09/2025 08:03:11 UTC
 <!--END_SECTION:waka-->
