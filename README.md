@@ -25,69 +25,28 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 kB Used in GitHub's Storage 
  > 
-> 🏆 484 Contributions in the Year 2025
+> 🏆 489 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-🌆 Daytime                196 commits         ██████████░░░░░░░░░░░░░░░   39.28 % 
-🌃 Evening                208 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -97,5 +56,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 08:03:11 UTC
+ Last Updated on 28/09/2025 08:03:14 UTC
 <!--END_SECTION:waka-->
