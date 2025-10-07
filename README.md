@@ -68,22 +68,16 @@ Sunday                   72 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    25 mins             ███████████████░░░░░░░░░░   60.78 % 
-CSS                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Terminal                 25 mins             ███████████████░░░░░░░░░░   60.78 % 
-Cursor                   16 mins             ██████████░░░░░░░░░░░░░░░   39.22 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Gmail_HTMaiL             28 mins             █████████████████░░░░░░░░   67.89 % 
-max                      13 mins             ████████░░░░░░░░░░░░░░░░░   32.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +97,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 08:02:39 UTC
+ Last Updated on 07/10/2025 08:13:40 UTC
 <!--END_SECTION:waka-->
