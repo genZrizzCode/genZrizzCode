@@ -25,8 +25,6 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -41,45 +39,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                95 commits          █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-🌆 Daytime                197 commits         ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌃 Evening                213 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Tuesday                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Thursday                 112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Sunday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -97,5 +56,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 08:02:29 UTC
+ Last Updated on 01/02/2026 08:18:30 UTC
 <!--END_SECTION:waka-->
