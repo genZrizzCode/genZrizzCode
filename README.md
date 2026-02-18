@@ -25,7 +25,7 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,16 +68,19 @@ Sunday                   72 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               13 mins             █████████████████████████   100.00 % 
+JavaScript               25 mins             ████████████░░░░░░░░░░░░░   49.57 % 
+CSS                      22 mins             ███████████░░░░░░░░░░░░░░   44.31 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Cursor                   13 mins             █████████████████████████   100.00 % 
+Cursor                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-max                      13 mins             █████████████████████████   100.00 % 
+max                      51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,5 +100,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 08:32:00 UTC
+ Last Updated on 18/02/2026 08:31:38 UTC
 <!--END_SECTION:waka-->
