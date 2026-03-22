@@ -5,9 +5,9 @@
 - 👋 Hi, I’m **MaSoVaX**
 - 👀 I’m interested in **coding (duh), but also robotics and 中文**
 - 🌱 I’m currently learning **JS (and userjs), CSS, HTML, Python, Svelte, & zsh.**
-- 💞️ I’m looking to make **websites, pre-made objects, and GUIs**
+- 💞️ I’m looking to make **websites, proxies, and GUIs**
 - 😄 Pronouns: **He, Him, His**
-- ⚡ Fun fact: I like to code during school hours
+- ⚡ Fun fact: I like to code during school hours (it has been blocked)
   
 ---
 
@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genzrizzcode&langs_count=20&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
 
 ### My (good) Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=genzrizzcode&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=matrix&column=3&margin-w=10&margin-h=10)
+![Trophies](https://github-trophies.vercel.app/?username=genZrizzCode&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&row=3)
 
 ### My Streak:
 ![GitHub Streak](https://streak-stats.demolab.com?user=genZrizzCode&theme=highcontrast&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=EB5454)
