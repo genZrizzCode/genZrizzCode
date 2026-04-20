@@ -25,7 +25,7 @@
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -68,16 +68,19 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    18 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+JavaScript               18 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
+HTML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+max                      58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,5 +100,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 08:41:12 UTC
+ Last Updated on 20/04/2026 09:30:24 UTC
 <!--END_SECTION:waka-->
