@@ -1,4 +1,4 @@
-<img src="profile-up.gif" alt="Profile Up" width="350px" height="200px">
+<img src="profile-up.gif" alt="Profile Up" width="350px" height="200px" />
 
 [![Github Followers](https://img.shields.io/github/followers/genZrizzCode?logo=github&style=plastic)](https://github.com/genZrizzCode?tab=followers)
 
@@ -8,6 +8,10 @@
 - 💞️ I’m looking to make **websites, proxies, and GUIs**
 - 😄 Pronouns: **He, Him, His**
 - ⚡ Fun fact: I like to code during school hours (it has been blocked)
+
+My Gravatar:
+
+<img src="masovax.png" width="250px" length="250px"/>
   
 ---
 
