@@ -29,6 +29,8 @@ My Gravatar:
 
 ### My Wakatime:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -60,5 +62,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/genZrizzCode/genZrizzCode/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 10:19:45 UTC
+ Last Updated on 08/06/2026 12:19:32 UTC
 <!--END_SECTION:waka-->
